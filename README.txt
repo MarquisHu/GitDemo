@@ -39,4 +39,9 @@ $ git push -u origin master
 
 10. over.
 
+How to create a branch?
+$ git branch branchname.
+
+
+
 
