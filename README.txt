@@ -40,4 +40,4 @@ $ git push -u origin master
 10. How to create a branch?
 $ git branch branchname.
 
-11. over
+11. over.
